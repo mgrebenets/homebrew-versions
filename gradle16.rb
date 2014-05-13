@@ -1,6 +1,6 @@
 require 'formula'
 
-class Gradle < Formula
+class Gradle16 < Formula
   homepage 'http://www.gradle.org/'
   url 'http://services.gradle.org/distributions/gradle-1.6-bin.zip'
   sha1 '631650e2b0aa8dea45f94a999ecab850d0f07370'
